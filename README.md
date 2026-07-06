@@ -80,16 +80,16 @@ The goal of this repository is to strengthen problem-solving skills, write clean
 
 ## Data Structures & Algorithms
 
--[x] Arrays
--[x] Strings
-- HashMap
-- HashSet
-- Linked List
-- Stack
-- Queue
+-[✓] Arrays
+-[✓] Strings
+-[✓] HashMap
+-[✓] HashSet
+-[✓] Linked List
+-[✓] Stack
+-[✓] Queue
 - Deque
 - Heap / Priority Queue
-- Binary Search
+-[✓] Binary Search
 - Trees
 - Binary Search Trees
 - Graphs
@@ -98,7 +98,7 @@ The goal of this repository is to strengthen problem-solving skills, write clean
 - Greedy Algorithms
 - Dynamic Programming
 - Sliding Window
-- Two Pointers
+-[✓] Two Pointers
 - Prefix Sum
 - Bit Manipulation
 
@@ -106,15 +106,15 @@ The goal of this repository is to strengthen problem-solving skills, write clean
 
 ## Object-Oriented Programming
 
-- Classes & Objects
-- Constructors
-- Encapsulation
-- Inheritance
-- Polymorphism
-- Abstraction
-- Interfaces
-- Abstract Classes
-- Composition
+-[✓] Classes & Objects
+-[✓] Constructors
+-[✓] Encapsulation
+-[✓] Inheritance
+-[✓] Polymorphism
+-[✓] Abstraction
+-[✓] Interfaces
+-[✓] Abstract Classes
+-[✓] Composition
 - Aggregation
 - Association
 
@@ -122,7 +122,7 @@ The goal of this repository is to strengthen problem-solving skills, write clean
 
 ## SOLID Principles
 
-- Single Responsibility Principle
+-[✓] Single Responsibility Principle
 - Open/Closed Principle
 - Liskov Substitution Principle
 - Interface Segregation Principle
@@ -134,7 +134,7 @@ The goal of this repository is to strengthen problem-solving skills, write clean
 
 ### Creational
 
-- Singleton
+-[✓] Singleton
 - Factory
 - Builder
 - Prototype
@@ -199,20 +199,20 @@ Each implementation focuses on:
 
 # 🟣 Kotlin Topics
 
-- Kotlin Basics
-- Null Safety
-- Data Classes
-- Sealed Classes
-- Object Declarations
-- Companion Objects
-- Extension Functions
+-[✓] Kotlin Basics
+-[✓] Null Safety
+- [✓]Data Classes
+- [✓]Sealed Classes
+-[✓] Object Declarations
+-[✓] Companion Objects
+- [✓]Extension Functions
 - Higher-Order Functions
-- Scope Functions
+-[✓] Scope Functions
 - Delegation
-- Coroutines
-- Flow
-- StateFlow
-- SharedFlow
+-[✓] Coroutines
+-[✓] Flow
+-[✓] StateFlow
+-[✓] SharedFlow
 
 ---
 
