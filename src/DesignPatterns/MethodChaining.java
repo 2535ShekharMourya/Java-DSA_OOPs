@@ -7,7 +7,7 @@ class Student1 {
     private int rollNo;
     private String gender;
 
-    /*Student1(String name, String city, int age, int rollNo, String gender) {
+    /*Student1(DSA.String name, DSA.String city, int age, int rollNo, DSA.String gender) {
         this.name = name;
         this.city = city;
         this.age = age;
@@ -16,11 +16,11 @@ class Student1 {
     }*/
 
 
-   /*public void setName(String name) {
+   /*public void setName(DSA.String name) {
         this.name = name;
     }
 
-    public void setCity(String city) {
+    public void setCity(DSA.String city) {
         this.city = city;
     }
 
@@ -32,7 +32,7 @@ class Student1 {
         this.rollNo = rollNo;
     }
 
-    public void setGender(String gender) {
+    public void setGender(DSA.String gender) {
         this.gender = gender;
     }*/
 
